@@ -4,4 +4,4 @@
   
   
 ---
-[お問い合わせはこちら](s.minowa.sys22@morijyobi.ac.jp)
+[お問い合わせはこちら](https://morijyobi.ac.jp/contact/)
