@@ -4,4 +4,4 @@
   
   
 ---
-[お問い合わせはこちら](https://morijyobi.ac.jp/contact/)
+[お問い合わせはこちら]()
